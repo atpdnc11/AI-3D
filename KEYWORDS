@@ -1,0 +1,74 @@
+KEY WORDS FOR 3D IMAGES
+
+
+To draw 3D objects, here are some essential keywords that you may find useful. These terms can be adapted depending on the software or programming library you're using (like OpenGL, Blender, Unity, or a programming language like Python with libraries such as Pygame or VPython):
+
+General 3D Object Keywords
+3D Shape - Sphere, Cube, Cylinder, Cone, Torus, Pyramid, Prism, etc.
+Mesh - Network of vertices, edges, and faces that make up a 3D object.
+Vertex - A point in 3D space (corner of a polygon).
+Edge - A line connecting two vertices.
+Face - A flat surface bounded by edges.
+Polygon - A shape with three or more sides (often triangles or quads in 3D models).
+Primitive - Basic shapes (like cube, sphere) used as building blocks for more complex objects.
+Extrusion - Extending a 2D shape along a path to create 3D geometry.
+Surface - Outer layer or boundary of a 3D object.
+Transformation Keywords
+Translate - Move an object along X, Y, or Z axes.
+Rotate - Spin an object around an axis (pitch, yaw, roll).
+Scale - Resize an object along one or more axes.
+Pivot - Point around which transformations like rotation occur.
+Matrix - Mathematical representation of transformations in 3D space.
+Lighting and Shading
+Ambient Light - General, non-directional light that illuminates all objects.
+Point Light - Light source at a specific point, radiating in all directions.
+Directional Light - Light with parallel rays, often used to simulate sunlight.
+Spotlight - Light with a cone-shaped beam.
+Diffuse Shading - Surface lighting dependent on light direction and surface angle.
+Specular Shading - Highlights to simulate shiny surfaces.
+Phong Shading - A method for smooth lighting effects across surfaces.
+Ray Tracing - Rendering technique for realistic lighting and shadows.
+Texture and Material Keywords
+Texture Mapping - Applying an image to a 3D surface.
+UV Mapping - Coordinates that map 2D textures to 3D surfaces.
+Material - Defines surface properties like color, shininess, transparency.
+Bump Map - Adds the appearance of depth and texture.
+Normal Map - Creates fine surface details without additional geometry.
+Reflection - Simulates mirrored surfaces.
+Refraction - Bending of light through transparent surfaces.
+Rendering and Viewing
+Camera - Defines the viewpoint of the 3D scene.
+Viewport - The visible area of the scene.
+Perspective Projection - 3D objects appear smaller as they move farther from the viewer.
+Orthographic Projection - 3D objects appear the same size regardless of depth.
+Clipping Plane - Limits rendering to within a certain range (near and far).
+Field of View (FOV) - Angle of the camera’s viewing cone.
+Animation Keywords
+Keyframe - Defines positions or values for an object at specific times.
+Interpolation - Calculating intermediate frames between keyframes.
+Frame Rate - Speed of animation playback (frames per second).
+Timeline - Visual representation of animation over time.
+Path - The trajectory along which an object moves.
+Rigging - Setting up a structure of bones and joints for animation.
+Morphing - Smooth transformation from one shape to another.
+Advanced Effects
+Shadow Mapping - Technique to create shadows based on light sources.
+Reflection Mapping - Technique to simulate reflective surfaces.
+Depth of Field - Effect to simulate camera focus.
+Bloom - Glow effect for bright areas.
+Ambient Occlusion - Technique to simulate soft shadows in crevices.
+Particle System - Creates effects like smoke, fire, or rain.
+Volumetric Lighting - Lighting effect for fog, haze, or god rays.
+These keywords provide a solid foundation for working with 3D objects and effects, giving you the building blocks for creating detailed and dynamic 3D scenes.
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT can make mistakes. Check important 
